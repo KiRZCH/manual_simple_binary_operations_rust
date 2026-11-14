@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Binary","Operation"],"fn":["apply","apply_and","apply_nand","apply_nor","apply_or","apply_sequences","apply_xnor","apply_xor"]};

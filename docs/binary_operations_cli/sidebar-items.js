@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["ask_bits","insert_bits","main","visualizer"],"mod":["binary"]};

@@ -1,0 +1,9 @@
+(function() {
+    const implementors = Object.fromEntries([["binary_operations",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/marker/trait.Send.html\" title=\"trait core::marker::Send\">Send</a> for <a class=\"enum\" href=\"binary_operations/binary/enum.Binary.html\" title=\"enum binary_operations::binary::Binary\">Binary</a>",0,1,["binary_operations::binary::Binary"]],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/marker/trait.Send.html\" title=\"trait core::marker::Send\">Send</a> for <a class=\"enum\" href=\"binary_operations/binary/enum.Operation.html\" title=\"enum binary_operations::binary::Operation\">Operation</a>",0,1,["binary_operations::binary::Operation"]]]],["binary_operations_cli",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/marker/trait.Send.html\" title=\"trait core::marker::Send\">Send</a> for <a class=\"enum\" href=\"binary_operations_cli/binary/enum.Binary.html\" title=\"enum binary_operations_cli::binary::Binary\">Binary</a>",0,1,["binary_operations_cli::binary::Binary"]],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/marker/trait.Send.html\" title=\"trait core::marker::Send\">Send</a> for <a class=\"enum\" href=\"binary_operations_cli/binary/enum.Operation.html\" title=\"enum binary_operations_cli::binary::Operation\">Operation</a>",0,1,["binary_operations_cli::binary::Operation"]]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":59,"fragment_lengths":[669,698]}
