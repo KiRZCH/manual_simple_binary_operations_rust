@@ -1,0 +1,10 @@
+[package]
+name = "binary_operations"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "binary_operations_cli"
+path = "src/main.rs"
+
+[dependencies]
